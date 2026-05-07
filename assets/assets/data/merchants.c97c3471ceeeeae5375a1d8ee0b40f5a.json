@@ -1,0 +1,1002 @@
+[
+  {
+    "id": 1001,
+    "name": "Пятёрочка",
+    "description": "Федеральная сеть магазинов у дома",
+    "mcc": 5411,
+    "website": "5ka.ru",
+    "category": "Супермаркеты",
+    "tags": ["продукты", "еда", "магазин", "x5"],
+    "isCustom": false
+  },
+  {
+    "id": 1002,
+    "name": "Магнит",
+    "description": "Крупнейшая сеть магазинов и гипермаркетов",
+    "mcc": 5411,
+    "website": "magnit.ru",
+    "category": "Супермаркеты",
+    "tags": ["продукты", "еда", "семья"],
+    "isCustom": false
+  },
+  {
+    "id": 1003,
+    "name": "Перекрёсток",
+    "description": "Супермаркеты с широким ассортиментом",
+    "mcc": 5411,
+    "website": "perekrestok.ru",
+    "category": "Супермаркеты",
+    "tags": ["продукты", "еда", "x5", "супермаркет"],
+    "isCustom": false
+  },
+  {
+    "id": 1004,
+    "name": "ВкусВилл",
+    "description": "Продукты для здорового питания",
+    "mcc": 5411,
+    "website": "vkusvill.ru",
+    "category": "Супермаркеты",
+    "tags": ["зож", "еда", "готовая еда", "эко"],
+    "isCustom": false
+  },
+  {
+    "id": 1005,
+    "name": "Лента",
+    "description": "Сеть гипермаркетов и супермаркетов",
+    "mcc": 5411,
+    "website": "lenta.com",
+    "category": "Супермаркеты",
+    "tags": ["продукты", "гипермаркет", "дом"],
+    "isCustom": false
+  },
+  {
+    "id": 1006,
+    "name": "Ашан",
+    "description": "Французская сеть гипермаркетов",
+    "mcc": 5411,
+    "website": "auchan.ru",
+    "category": "Супермаркеты",
+    "tags": ["продукты", "гипермаркет", "низкие цены"],
+    "isCustom": false
+  },
+  {
+    "id": 1007,
+    "name": "Metro C&C",
+    "description": "Центры мелкооптовой торговли",
+    "mcc": 5411,
+    "website": "metro-cc.ru",
+    "category": "Супермаркеты",
+    "tags": ["опт", "продукты", "бизнес"],
+    "isCustom": false
+  },
+  {
+    "id": 1008,
+    "name": "О'Кей",
+    "description": "Гипермаркеты с собственной кулинарией",
+    "mcc": 5411,
+    "website": "okeydostavka.ru",
+    "category": "Супермаркеты",
+    "tags": ["продукты", "гипермаркет", "еда"],
+    "isCustom": false
+  },
+  {
+    "id": 1009,
+    "name": "Дикси",
+    "description": "Магазины у дома",
+    "mcc": 5411,
+    "website": "dixy.ru",
+    "category": "Супермаркеты",
+    "tags": ["продукты", "эконом", "еда"],
+    "isCustom": false
+  },
+  {
+    "id": 1010,
+    "name": "Азбука Вкуса",
+    "description": "Премиальные супермаркеты",
+    "mcc": 5411,
+    "website": "av.ru",
+    "category": "Супермаркеты",
+    "tags": ["премиум", "еда", "деликатесы"],
+    "isCustom": false
+  },
+  {
+    "id": 1011,
+    "name": "SPAR",
+    "description": "Супермаркеты с фокусом на готовую еду",
+    "mcc": 5411,
+    "website": "myspar.ru",
+    "category": "Супермаркеты",
+    "tags": ["евроспар", "готовая еда", "продукты"],
+    "isCustom": false
+  },
+  {
+    "id": 1012,
+    "name": "Чижик",
+    "description": "Жесткий дискаунтер от X5",
+    "mcc": 5411,
+    "website": "chizhik.club",
+    "category": "Супермаркеты",
+    "tags": ["дискаунтер", "дешево", "продукты"],
+    "isCustom": false
+  },
+  {
+    "id": 1013,
+    "name": "Светофор",
+    "description": "Магазин-склад низких цен",
+    "mcc": 5411,
+    "website": "svetofor-magazin.ru",
+    "category": "Супермаркеты",
+    "tags": ["склад", "дешево", "опт"],
+    "isCustom": false
+  },
+  {
+    "id": 1014,
+    "name": "Магнолия",
+    "description": "Круглосуточные магазины и кулинария",
+    "mcc": 5411,
+    "website": "mgnl.ru",
+    "category": "Супермаркеты",
+    "tags": ["24 часа", "кулинария", "москва"],
+    "isCustom": false
+  },
+  {
+    "id": 1015,
+    "name": "Ярче!",
+    "description": "Сеть супермаркетов шаговой доступности",
+    "mcc": 5411,
+    "website": "yarche.ru",
+    "category": "Супермаркеты",
+    "tags": ["kdv", "снеки", "продукты"],
+    "isCustom": false
+  },
+  {
+    "id": 1016,
+    "name": "Верный",
+    "description": "Универсамы эконом-класса",
+    "mcc": 5411,
+    "website": "verno-info.ru",
+    "category": "Супермаркеты",
+    "tags": ["продукты", "эконом", "магазин"],
+    "isCustom": false
+  },
+  {
+    "id": 1017,
+    "name": "Глобус",
+    "description": "Гипермаркеты с собственным производством",
+    "mcc": 5411,
+    "website": "globus.ru",
+    "category": "Супермаркеты",
+    "tags": ["гипермаркет", "ресторан", "кулинария"],
+    "isCustom": false
+  },
+  {
+    "id": 1018,
+    "name": "Бахетле",
+    "description": "Супермаркет домашней еды",
+    "mcc": 5411,
+    "website": "bahetle.com",
+    "category": "Супермаркеты",
+    "tags": ["татарская кухня", "выпечка", "готовая еда"],
+    "isCustom": false
+  },
+  {
+    "id": 1019,
+    "name": "Самокат",
+    "description": "Мгновенная доставка продуктов",
+    "mcc": 3991,
+    "website": "samokat.ru",
+    "category": "Супермаркеты",
+    "tags": ["доставка", "онлайн", "сбер"],
+    "isCustom": false
+  },
+  {
+    "id": 1020,
+    "name": "Яндекс Лавка",
+    "description": "Сервис быстрой доставки еды",
+    "mcc": 3990,
+    "website": "lavka.yandex.ru",
+    "category": "Супермаркеты",
+    "tags": ["доставка", "яндекс", "готовая еда"],
+    "isCustom": false
+  },
+  {
+    "id": 1021,
+    "name": "Купер (СберМаркет)",
+    "description": "Доставка продуктов и еды",
+    "mcc": 3991,
+    "website": "kuper.ru",
+    "category": "Супермаркеты",
+    "tags": ["доставка", "сбер", "продукты"],
+    "isCustom": false
+  },
+  {
+    "id": 1022,
+    "name": "Wildberries",
+    "description": "Крупнейший маркетплейс одежды",
+    "mcc": 5300,
+    "website": "wildberries.ru",
+    "category": "Маркетплейсы",
+    "tags": ["одежда", "онлайн", "wb"],
+    "isCustom": false
+  },
+  {
+    "id": 1023,
+    "name": "Ozon",
+    "description": "Универсальный интернет-магазин",
+    "mcc": 5300,
+    "website": "ozon.ru",
+    "category": "Маркетплейсы",
+    "tags": ["онлайн", "электроника", "книги"],
+    "isCustom": false
+  },
+  {
+    "id": 1024,
+    "name": "Яндекс Маркет",
+    "description": "Маркетплейс экосистемы Яндекса",
+    "mcc": 3990,
+    "website": "market.yandex.ru",
+    "category": "Маркетплейсы",
+    "tags": ["яндекс", "сплит", "онлайн"],
+    "isCustom": false
+  },
+  {
+    "id": 1025,
+    "name": "Мегамаркет",
+    "description": "Маркетплейс от Сбера",
+    "mcc": 3991,
+    "website": "megamarket.ru",
+    "category": "Маркетплейсы",
+    "tags": ["сбер", "бонусы", "онлайн"],
+    "isCustom": false
+  },
+  {
+    "id": 1026,
+    "name": "AliExpress",
+    "description": "Товары из Китая и России",
+    "mcc": 5300,
+    "website": "aliexpress.ru",
+    "category": "Маркетплейсы",
+    "tags": ["китай", "дешево", "гаджеты"],
+    "isCustom": false
+  },
+  {
+    "id": 1027,
+    "name": "Lamoda",
+    "description": "Платформа моды и стиля",
+    "mcc": 5691,
+    "website": "lamoda.ru",
+    "category": "Одежда и Обувь",
+    "tags": ["одежда", "бренды", "примерка"],
+    "isCustom": false
+  },
+  {
+    "id": 1028,
+    "name": "Магнит Маркет",
+    "description": "Маркетплейс с быстрой доставкой",
+    "mcc": 5262,
+    "website": "mm.ru",
+    "category": "Маркетплейсы",
+    "tags": ["kazanexpress", "магнит", "доставка"],
+    "isCustom": false
+  },
+  {
+    "id": 1029,
+    "name": "Вкусно — и точка",
+    "description": "Российская сеть ресторанов быстрого питания",
+    "mcc": 5814,
+    "website": "vkusnoitochka.ru",
+    "category": "Фастфуд",
+    "tags": ["бургеры", "мак", "завтрак"],
+    "isCustom": false
+  },
+  {
+    "id": 1030,
+    "name": "Burger King",
+    "description": "Рестораны с бургерами на огне",
+    "mcc": 5814,
+    "website": "burgerking.ru",
+    "category": "Фастфуд",
+    "tags": ["воппер", "бургеры", "корона"],
+    "isCustom": false
+  },
+  {
+    "id": 1031,
+    "name": "Rostic's (KFC)",
+    "description": "Блюда из курицы",
+    "mcc": 5814,
+    "website": "rostics.ru",
+    "category": "Фастфуд",
+    "tags": ["курица", "крылышки", "баскет"],
+    "isCustom": false
+  },
+  {
+    "id": 1032,
+    "name": "Додо Пицца",
+    "description": "Российская сеть пиццерий",
+    "mcc": 5814,
+    "website": "dodopizza.ru",
+    "category": "Фастфуд",
+    "tags": ["пицца", "доставка", "ланч"],
+    "isCustom": false
+  },
+  {
+    "id": 1033,
+    "name": "Теремок",
+    "description": "Блины и домашняя еда",
+    "mcc": 5814,
+    "website": "teremok.ru",
+    "category": "Фастфуд",
+    "tags": ["блины", "суп", "русская кухня"],
+    "isCustom": false
+  },
+  {
+    "id": 1034,
+    "name": "Крошка Картошка",
+    "description": "Печеный картофель с наполнителями",
+    "mcc": 5814,
+    "website": "kartoshka.com",
+    "category": "Фастфуд",
+    "tags": ["картошка", "обед", "фастфуд"],
+    "isCustom": false
+  },
+  {
+    "id": 1035,
+    "name": "Subway",
+    "description": "Сэндвичи и салаты",
+    "mcc": 5814,
+    "website": "subway.ru",
+    "category": "Фастфуд",
+    "tags": ["саб", "бутерброд", "конструктор"],
+    "isCustom": false
+  },
+  {
+    "id": 1036,
+    "name": "Шоколадница",
+    "description": "Популярная сеть кофеен",
+    "mcc": 5812,
+    "website": "shoko.ru",
+    "category": "Фастфуд",
+    "tags": ["кофе", "десерты", "завтрак"],
+    "isCustom": false
+  },
+  {
+    "id": 1037,
+    "name": "Кофемания",
+    "description": "Премиальные рестораны-кофейни",
+    "mcc": 5812,
+    "website": "coffeemania.ru",
+    "category": "Фастфуд",
+    "tags": ["премиум", "кофе", "ресторан"],
+    "isCustom": false
+  },
+  {
+    "id": 1038,
+    "name": "Якитория",
+    "description": "Кафе японской кухни",
+    "mcc": 5812,
+    "website": "yakitoriya.ru",
+    "category": "Фастфуд",
+    "tags": ["суши", "роллы", "япония"],
+    "isCustom": false
+  },
+  {
+    "id": 1039,
+    "name": "Тануки",
+    "description": "Рестораны японской кухни",
+    "mcc": 5812,
+    "website": "tanuki.ru",
+    "category": "Фастфуд",
+    "tags": ["суши", "азия", "доставка"],
+    "isCustom": false
+  },
+  {
+    "id": 1040,
+    "name": "One Price Coffee",
+    "description": "Кофе по фиксированной цене",
+    "mcc": 5814,
+    "website": "onepricecoffee.com",
+    "category": "Фастфуд",
+    "tags": ["кофе", "дешево", "с собой"],
+    "isCustom": false
+  },
+  {
+    "id": 1041,
+    "name": "Cofix",
+    "description": "Кофейни фиксированных цен",
+    "mcc": 5814,
+    "website": "cofix.global",
+    "category": "Фастфуд",
+    "tags": ["кофе", "десерты", "недорого"],
+    "isCustom": false
+  },
+  {
+    "id": 1042,
+    "name": "Surf Coffee",
+    "description": "Атмосферные споты с кофе",
+    "mcc": 5814,
+    "website": "surfcoffee.ru",
+    "category": "Фастфуд",
+    "tags": ["кофе", "стиль", "фриланс"],
+    "isCustom": false
+  },
+  {
+    "id": 1043,
+    "name": "Золотое Яблоко",
+    "description": "Парфюмерные супермаркеты",
+    "mcc": 5977,
+    "website": "goldapple.ru",
+    "category": "Косметика и Красота",
+    "tags": ["косметика", "духи", "бьюти"],
+    "isCustom": false
+  },
+  {
+    "id": 1044,
+    "name": "Лэтуаль",
+    "description": "Сеть магазинов парфюмерии и косметики",
+    "mcc": 5977,
+    "website": "letu.ru",
+    "category": "Косметика и Красота",
+    "tags": ["духи", "подарки", "макияж"],
+    "isCustom": false
+  },
+  {
+    "id": 1045,
+    "name": "Рив Гош",
+    "description": "Магазины косметики и парфюмерии",
+    "mcc": 5977,
+    "website": "rivegauche.ru",
+    "category": "Косметика и Красота",
+    "tags": ["люкс", "косметика", "уход"],
+    "isCustom": false
+  },
+  {
+    "id": 1046,
+    "name": "Магнит Косметик",
+    "description": "Магазины дрогери у дома",
+    "mcc": 5977,
+    "website": "magnitcosmetic.ru",
+    "category": "Косметика и Красота",
+    "tags": ["бытовая химия", "дом", "косметика"],
+    "isCustom": false
+  },
+  {
+    "id": 1047,
+    "name": "Подружка",
+    "description": "Магазины косметики и аксессуаров",
+    "mcc": 5977,
+    "website": "podrygka.ru",
+    "category": "Косметика и Красота",
+    "tags": ["азия", "корея", "девушки"],
+    "isCustom": false
+  },
+  {
+    "id": 1048,
+    "name": "Улыбка Радуги",
+    "description": "Магазины товаров для ухода и дома",
+    "mcc": 5977,
+    "website": "r-ulybka.ru",
+    "category": "Косметика и Красота",
+    "tags": ["химия", "дом", "спб"],
+    "isCustom": false
+  },
+  {
+    "id": 1049,
+    "name": "Ив Роше",
+    "description": "Французская растительная косметика",
+    "mcc": 5977,
+    "website": "yves-rocher.ru",
+    "category": "Косметика и Красота",
+    "tags": ["эко", "уход", "франция"],
+    "isCustom": false
+  },
+  {
+    "id": 1050,
+    "name": "DNS",
+    "description": "Сеть магазинов цифровой и бытовой техники",
+    "mcc": 5732,
+    "website": "dns-shop.ru",
+    "category": "Электроника",
+    "tags": ["гаджеты", "компьютеры", "техника"],
+    "isCustom": false
+  },
+  {
+    "id": 1051,
+    "name": "М.Видео",
+    "description": "Гипермаркеты электроники",
+    "mcc": 5732,
+    "website": "mvideo.ru",
+    "category": "Электроника",
+    "tags": ["техника", "тв", "смартфоны"],
+    "isCustom": false
+  },
+  {
+    "id": 1052,
+    "name": "Эльдорадо",
+    "description": "Магазины бытовой техники и электроники",
+    "mcc": 5732,
+    "website": "eldorado.ru",
+    "category": "Электроника",
+    "tags": ["техника", "скидки", "дом"],
+    "isCustom": false
+  },
+  {
+    "id": 1053,
+    "name": "Ситилинк",
+    "description": "Электронный дискаунтер",
+    "mcc": 5732,
+    "website": "citilink.ru",
+    "category": "Электроника",
+    "tags": ["пк", "комплектующие", "онлайн"],
+    "isCustom": false
+  },
+  {
+    "id": 1054,
+    "name": "Re:Store",
+    "description": "Фирменные магазины техники Apple",
+    "mcc": 5732,
+    "website": "re-store.ru",
+    "category": "Электроника",
+    "tags": ["apple", "iphone", "mac"],
+    "isCustom": false
+  },
+  {
+    "id": 1055,
+    "name": "Технопарк",
+    "description": "Премиальная бытовая техника",
+    "mcc": 5732,
+    "website": "technopark.ru",
+    "category": "Электроника",
+    "tags": ["премиум", "кухня", "сервис"],
+    "isCustom": false
+  },
+  {
+    "id": 1056,
+    "name": "Samsung",
+    "description": "Фирменные магазины Samsung",
+    "mcc": 5732,
+    "website": "samsung.com",
+    "category": "Электроника",
+    "tags": ["galaxy", "android", "смартфоны"],
+    "isCustom": false
+  },
+  {
+    "id": 1057,
+    "name": "Xiaomi",
+    "description": "Фирменные магазины Mi Store",
+    "mcc": 5732,
+    "website": "mi.com",
+    "category": "Электроника",
+    "tags": ["китай", "умный дом", "mi"],
+    "isCustom": false
+  },
+  {
+    "id": 1058,
+    "name": "Холодильник.ру",
+    "description": "Интернет-магазин бытовой техники",
+    "mcc": 5722,
+    "website": "holodilnik.ru",
+    "category": "Электроника",
+    "tags": ["крупная техника", "кухня", "онлайн"],
+    "isCustom": false
+  },
+  {
+    "id": 1059,
+    "name": "Лемана ПРО",
+    "description": "Товары для строительства и ремонта (Леруа)",
+    "mcc": 5200,
+    "website": "lemanapro.ru",
+    "category": "Дом и Ремонт",
+    "tags": ["стройка", "дача", "ремонт", "леруа"],
+    "isCustom": false
+  },
+  {
+    "id": 1060,
+    "name": "Петрович",
+    "description": "Строительный торговый дом",
+    "mcc": 5211,
+    "website": "petrovich.ru",
+    "category": "Дом и Ремонт",
+    "tags": ["стройка", "профи", "доставка"],
+    "isCustom": false
+  },
+  {
+    "id": 1061,
+    "name": "Максидом",
+    "description": "Гипермаркет товаров для дома и ремонта",
+    "mcc": 5200,
+    "website": "maxidom.ru",
+    "category": "Дом и Ремонт",
+    "tags": ["интерьер", "дача", "спб"],
+    "isCustom": false
+  },
+  {
+    "id": 1062,
+    "name": "OBI",
+    "description": "Гипермаркеты для ремонта и дачи",
+    "mcc": 5200,
+    "website": "obi.ru",
+    "category": "Дом и Ремонт",
+    "tags": ["сад", "огород", "цветы"],
+    "isCustom": false
+  },
+  {
+    "id": 1063,
+    "name": "Hoff",
+    "description": "Гипермаркет мебели и товаров для дома",
+    "mcc": 5712,
+    "website": "hoff.ru",
+    "category": "Дом и Ремонт",
+    "tags": ["мебель", "диван", "интерьер"],
+    "isCustom": false
+  },
+  {
+    "id": 1064,
+    "name": "Аскона",
+    "description": "Товары для здорового сна",
+    "mcc": 5712,
+    "website": "askona.ru",
+    "category": "Дом и Ремонт",
+    "tags": ["матрас", "кровать", "сон"],
+    "isCustom": false
+  },
+  {
+    "id": 1065,
+    "name": "Много Мебели",
+    "description": "Мебель по доступным ценам",
+    "mcc": 5712,
+    "website": "mnogomebeli.com",
+    "category": "Дом и Ремонт",
+    "tags": ["диван", "шкаф", "эконом"],
+    "isCustom": false
+  },
+  {
+    "id": 1066,
+    "name": "Галамарт",
+    "description": "Магазин постоянных распродаж",
+    "mcc": 5712,
+    "website": "galamart.ru",
+    "category": "Дом и Ремонт",
+    "tags": ["хозтовары", "посуда", "мелочи"],
+    "isCustom": false
+  },
+  {
+    "id": 1067,
+    "name": "ВсеИнструменты",
+    "description": "Инструменты и оборудование",
+    "mcc": 5200,
+    "website": "vseinstrumenti.ru",
+    "category": "Дом и Ремонт",
+    "tags": ["инструмент", "стройка", "профи"],
+    "isCustom": false
+  },
+  {
+    "id": 1068,
+    "name": "Спортмастер",
+    "description": "Спортивная одежда и инвентарь",
+    "mcc": 5941,
+    "website": "sportmaster.ru",
+    "category": "Одежда и Обувь",
+    "tags": ["спорт", "фитнес", "туризм"],
+    "isCustom": false
+  },
+  {
+    "id": 1069,
+    "name": "Gloria Jeans",
+    "description": "Одежда для детей и молодежи",
+    "mcc": 5651,
+    "website": "gloria-jeans.ru",
+    "category": "Одежда и Обувь",
+    "tags": ["джинсы", "дети", "повседневное"],
+    "isCustom": false
+  },
+  {
+    "id": 1070,
+    "name": "O'stin",
+    "description": "Одежда в стиле casual",
+    "mcc": 5651,
+    "website": "ostin.com",
+    "category": "Одежда и Обувь",
+    "tags": ["мужское", "женское", "офис"],
+    "isCustom": false
+  },
+  {
+    "id": 1071,
+    "name": "Zolla",
+    "description": "Демократичная марка одежды",
+    "mcc": 5651,
+    "website": "zolla.com",
+    "category": "Одежда и Обувь",
+    "tags": ["одежда", "эконом", "база"],
+    "isCustom": false
+  },
+  {
+    "id": 1072,
+    "name": "Zarina",
+    "description": "Женственная одежда и аксессуары",
+    "mcc": 5691,
+    "website": "zarina.ru",
+    "category": "Одежда и Обувь",
+    "tags": ["женское", "стиль", "платья"],
+    "isCustom": false
+  },
+  {
+    "id": 1073,
+    "name": "Love Republic",
+    "description": "Модная женская одежда",
+    "mcc": 5691,
+    "website": "loverepublic.ru",
+    "category": "Одежда и Обувь",
+    "tags": ["вечернее", "стиль", "тренды"],
+    "isCustom": false
+  },
+  {
+    "id": 1074,
+    "name": "Befree",
+    "description": "Молодежная одежда и аксессуары",
+    "mcc": 5691,
+    "website": "befree.ru",
+    "category": "Одежда и Обувь",
+    "tags": ["молодежь", "яркое", "унисекс"],
+    "isCustom": false
+  },
+  {
+    "id": 1075,
+    "name": "Sela",
+    "description": "Семейный бренд одежды",
+    "mcc": 5651,
+    "website": "sela.ru",
+    "category": "Одежда и Обувь",
+    "tags": ["мамы", "дети", "база"],
+    "isCustom": false
+  },
+  {
+    "id": 1076,
+    "name": "Colin's",
+    "description": "Джинсовая и повседневная одежда",
+    "mcc": 5651,
+    "website": "colins.ru",
+    "category": "Одежда и Обувь",
+    "tags": ["джинсы", "турция", "casual"],
+    "isCustom": false
+  },
+  {
+    "id": 1077,
+    "name": "Henderson",
+    "description": "Салоны мужской моды",
+    "mcc": 5691,
+    "website": "henderson.ru",
+    "category": "Одежда и Обувь",
+    "tags": ["костюмы", "мужское", "офис"],
+    "isCustom": false
+  },
+  {
+    "id": 1078,
+    "name": "Rendez-Vous",
+    "description": "Магазины обуви и аксессуаров",
+    "mcc": 5661,
+    "website": "rendez-vous.ru",
+    "category": "Одежда и Обувь",
+    "tags": ["обувь", "сумки", "бренды"],
+    "isCustom": false
+  },
+  {
+    "id": 1079,
+    "name": "Kari",
+    "description": "Международная сеть магазинов обуви",
+    "mcc": 5661,
+    "website": "kari.com",
+    "category": "Одежда и Обувь",
+    "tags": ["обувь", "дешево", "аксессуары"],
+    "isCustom": false
+  },
+  {
+    "id": 1080,
+    "name": "ECCO",
+    "description": "Датская обувь и аксессуары",
+    "mcc": 5661,
+    "website": "ecco.ru",
+    "category": "Одежда и Обувь",
+    "tags": ["обувь", "комфорт", "кожа"],
+    "isCustom": false
+  },
+  {
+    "id": 1081,
+    "name": "Кант",
+    "description": "Спортивные магазины",
+    "mcc": 5941,
+    "website": "kant.ru",
+    "category": "Одежда и Обувь",
+    "tags": ["лыжи", "сноуборд", "туризм"],
+    "isCustom": false
+  },
+  {
+    "id": 1082,
+    "name": "Красное & Белое",
+    "description": "Магазины алкоголя и продуктов у дома",
+    "mcc": 5921,
+    "website": "krasnoeibeloe.ru",
+    "category": "Алкогольные магазины",
+    "tags": ["алкоголь", "киб", "продукты"],
+    "isCustom": false
+  },
+  {
+    "id": 1083,
+    "name": "Бристоль",
+    "description": "Магазин у дома: алкоголь и табак",
+    "mcc": 5921,
+    "website": "bristol.ru",
+    "category": "Алкогольные магазины",
+    "tags": ["алкоголь", "пиво", "снеки"],
+    "isCustom": false
+  },
+  {
+    "id": 1084,
+    "name": "ВинЛаб",
+    "description": "Алкогольный супермаркет напитков",
+    "mcc": 5921,
+    "website": "winelab.ru",
+    "category": "Алкогольные магазины",
+    "tags": ["вино", "крепкое", "beluga"],
+    "isCustom": false
+  },
+  {
+    "id": 1085,
+    "name": "Планета Здоровья",
+    "description": "Федеральная аптечная сеть",
+    "mcc": 5912,
+    "website": "planetazdorovo.ru",
+    "category": "Аптеки и Медицина",
+    "tags": ["лекарства", "здоровье", "аптека"],
+    "isCustom": false
+  },
+  {
+    "id": 1086,
+    "name": "Ригла",
+    "description": "Аптечная сеть",
+    "mcc": 5912,
+    "website": "rigla.ru",
+    "category": "Аптеки и Медицина",
+    "tags": ["фарма", "космецевтика", "здоровье"],
+    "isCustom": false
+  },
+  {
+    "id": 1087,
+    "name": "36.6",
+    "description": "Сеть аптек",
+    "mcc": 5912,
+    "website": "366.ru",
+    "category": "Аптеки и Медицина",
+    "tags": ["центр", "лекарства", "аптека"],
+    "isCustom": false
+  },
+  {
+    "id": 1088,
+    "name": "Горздрав",
+    "description": "Аптеки с доступными ценами",
+    "mcc": 5912,
+    "website": "gorzdrav.org",
+    "category": "Аптеки и Медицина",
+    "tags": ["социальная", "эконом", "лекарства"],
+    "isCustom": false
+  },
+  {
+    "id": 1089,
+    "name": "Еаптека",
+    "description": "Онлайн-аптека с доставкой",
+    "mcc": 5912,
+    "website": "eapteka.ru",
+    "category": "Аптеки и Медицина",
+    "tags": ["сбер", "доставка", "онлайн"],
+    "isCustom": false
+  },
+  {
+    "id": 1090,
+    "name": "Инвитро",
+    "description": "Медицинские анализы и услуги",
+    "mcc": 8011,
+    "website": "invitro.ru",
+    "category": "Аптеки и Медицина",
+    "tags": ["кровь", "тесты", "клиника"],
+    "isCustom": false
+  },
+  {
+    "id": 1091,
+    "name": "Гемотест",
+    "description": "Лабораторная диагностика",
+    "mcc": 8011,
+    "website": "gemotest.ru",
+    "category": "Аптеки и Медицина",
+    "tags": ["анализы", "врач", "здоровье"],
+    "isCustom": false
+  },
+  {
+    "id": 1092,
+    "name": "Яндекс Go",
+    "description": "Такси, транспорт и доставка",
+    "mcc": 4121,
+    "website": "go.yandex.ru",
+    "category": "Транспорт",
+    "tags": ["такси", "каршеринг", "поездки"],
+    "isCustom": false
+  },
+  {
+    "id": 1093,
+    "name": "Uber Russia",
+    "description": "Сервис заказа такси",
+    "mcc": 4121,
+    "website": "uber.com",
+    "category": "Транспорт",
+    "tags": ["такси", "поездка", "эконом"],
+    "isCustom": false
+  },
+  {
+    "id": 1094,
+    "name": "Лукойл",
+    "description": "Сеть автозаправочных станций",
+    "mcc": 5541,
+    "website": "lukoil.ru",
+    "category": "Транспорт",
+    "tags": ["бензин", "азс", "топливо"],
+    "isCustom": false
+  },
+  {
+    "id": 1095,
+    "name": "Газпромнефть",
+    "description": "АЗС с бонусной программой",
+    "mcc": 5541,
+    "website": "gpnbonus.ru",
+    "category": "Транспорт",
+    "tags": ["бензин", "g-drive", "кофе"],
+    "isCustom": false
+  },
+  {
+    "id": 1096,
+    "name": "Роснефть",
+    "description": "Федеральная сеть АЗС",
+    "mcc": 5541,
+    "website": "komandacard.ru",
+    "category": "Транспорт",
+    "tags": ["подсолнух", "топливо", "путешествия"],
+    "isCustom": false
+  },
+  {
+    "id": 1097,
+    "name": "Татнефть",
+    "description": "АЗС с татарской выпечкой",
+    "mcc": 5541,
+    "website": "azs.tatneft.ru",
+    "category": "Транспорт",
+    "tags": ["танеко", "еда", "бензин"],
+    "isCustom": false
+  },
+  {
+    "id": 1098,
+    "name": "Детский Мир",
+    "description": "Крупнейшая сеть товаров для детей",
+    "mcc": 5945,
+    "website": "detmir.ru",
+    "category": "Разное",
+    "tags": ["игрушки", "дети", "питание"],
+    "isCustom": false
+  },
+  {
+    "id": 1099,
+    "name": "Fix Price",
+    "description": "Магазины фиксированных низких цен",
+    "mcc": 5331,
+    "website": "fix-price.com",
+    "category": "Разное",
+    "tags": ["дешево", "мелочи", "дом"],
+    "isCustom": false
+  },
+  {
+    "id": 1100,
+    "name": "Почта России",
+    "description": "Национальный почтовый оператор",
+    "mcc": 9402,
+    "website": "pochta.ru",
+    "category": "Разное",
+    "tags": ["посылки", "письма", "услуги"],
+    "isCustom": false
+  }
+]
